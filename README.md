@@ -1,6 +1,6 @@
 <div class="cell markdown">
 
-# Predicting Sales - 1C Software
+# TimeSeries-Multi-StoreSales
 
 </div>
 
